@@ -1,0 +1,2 @@
+# google-searchbyimage-discord
+Discordで画像から検索をGoogleで行うプログラム
