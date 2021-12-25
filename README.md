@@ -1,2 +1,4 @@
 # google-searchbyimage-discord
 Discordで画像から検索をGoogleで行うプログラム
+
+.envにTOKENを設定して、メッセージコンテンツインテントを有効にするだけで利用することがで出来ます。
